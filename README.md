@@ -14,11 +14,11 @@ A friendly Telegram bot for quote lovers. Share your favorite quotes with the co
 
 ## Technologies
 
-- **PHP** — основный язык программирования
-- **Laravel** — фреймворк для создания веб-приложений и API
-- **Telegram Bot API** — взаимодействие с Telegram
-- **MySQL / SQLite** — база данных для хранения пользователей и цитат
-- **Composer** — управление зависимостями PHP
+- **PHP** 
+- **Laravel** 
+- **Telegram Bot API** 
+- **MySQL** 
+- **Composer**
 
 
 ## Installation

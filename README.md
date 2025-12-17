@@ -1,4 +1,4 @@
-# TelegramBot4
+# TelegramBot
 
 A friendly Telegram bot for quote lovers. Share your favorite quotes with the community and receive a daily quote from other members! 📚✨
 
@@ -6,6 +6,7 @@ A friendly Telegram bot for quote lovers. Share your favorite quotes with the co
 
 - Receive a random approved quote every day.
 - Submit your own quote for the community.
+- Administrative panel for moderating and editing user-submitted quotes.
 - Simple command panel for easy navigation:
   - `/start` – start the bot
   - `/help` – see all commands

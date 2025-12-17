@@ -32,7 +32,7 @@ class SubmitCommand extends Command
         $textParts = $this->argument('text');
         $text = is_array($textParts) ? implode(' ', $textParts) : $textParts;
 
-        // Передаём данные в контроллер
+        
         $controller = new QuoteController();
         $controller->submitQuote($chatId, $text);
 
